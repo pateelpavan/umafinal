@@ -15,7 +15,7 @@ const Team = () => {
     },
     {
       name: "Pateel Pavan",
-      position: "CEO & Marketing Head",
+      position: "Marketing Head",
       image: "https://avatars.githubusercontent.com/u/180744442?v=4"
     }
   ];
