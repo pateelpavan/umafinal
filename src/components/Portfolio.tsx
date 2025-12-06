@@ -13,7 +13,7 @@ const Portfolio = () => {
       title: "Precision Gear Components",
       description: "CNC machining for automotive industry",
       category: "cnc",
-      image: "UE 1.jpg"
+      image: "https://images.unsplash.com/photo-1704732163491-91cfe189ff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmVjaXNpb24lMjBnZWFyJTIwY29tcG9uZW50c3xlbnwxfHx8fDE3NTg0NTg4ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
     },
     {
       title: "Stainless Steel Shafts",
@@ -31,19 +31,19 @@ const Portfolio = () => {
       title: "Aluminum Enclosures",
       description: "CNC machined enclosures for electronics",
       category: "cnc",
-      image: "ue2.jpg"
+      image: "https://images.unsplash.com/photo-1592867964826-ca850133fb74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhbHVtaW51bSUyMG1hY2hpbmVkJTIwcGFydHN8ZW58MXx8fHwxNzU4NDU4ODg3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
     },
     {
       title: "Brass Fittings",
       description: "Precision turned components for plumbing",
       category: "turnin",
-      image: "UE4.jpg"
+      image: "https://images.unsplash.com/photo-1739879501339-1c5a2bf1eb46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtZXRhbCUyMHR1cm5pbmclMjBsYXRoZXxlbnwxfHx8fDE3NTg0NTg4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
     },
     {
       title: "Custom Metal Brackets",
       description: "Fabricated steel brackets for industrial use",
       category: "fabrication",
-      image: "UE3.jpg"
+      image: "https://images.unsplash.com/photo-1548683726-203119be6a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtZXRhbCUyMHR1cm5pbmclMjBsYXRoZXxlbnwxfHx8fDE3NTg0NTg4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
     }
   ];
 
